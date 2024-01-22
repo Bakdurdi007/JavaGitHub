@@ -11,9 +11,11 @@ public class Main {
         System.out.print(" Enter b: ");
         int b = scanner.nextInt();
 
+        int S = a + b;
 
-        System.out.println(" S = a + b = " + (a+b));
-        System.out.println(" S = a - b = " + (a-b));
-        System.out.println(" S = a * b = " + (a*b));
+        System.out.println(" S = a + b = " + S);
+        System.out.println(" S = a + b = " + S);
+
+        System.out.println("Creator");
     }
 }
