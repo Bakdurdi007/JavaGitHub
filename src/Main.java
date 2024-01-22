@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println(" S = a + b = " + (a+b));
         System.out.println(" S = a - b = " + (a-b));
+        System.out.println(" S = a * b = " + (a*b));
     }
 }
