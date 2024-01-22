@@ -14,5 +14,7 @@ public class Main {
         int S = a + b;
 
         System.out.println(" S = a + b = " + S);
+
+        System.out.println(">>>>");
     }
 }
