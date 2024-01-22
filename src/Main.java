@@ -14,8 +14,9 @@ public class Main {
         System.out.println(" S = a + b = " + (a + b));
         System.out.println(" S = a - b = " + (a - b));
 
-
-
         System.out.println(" asdfghjk hcbhixhbfgbnjbfijbnj");
+
+        System.out.println("Java");
+        System.out.println("C++");
     }
 }
