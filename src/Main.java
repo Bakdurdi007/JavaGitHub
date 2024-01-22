@@ -13,10 +13,9 @@ public class Main {
 
         System.out.println(" S = a + b = " + (a + b));
         System.out.println(" S = a - b = " + (a - b));
-        System.out.println(" S = a * b = " + (a * b));
-        System.out.println(" S = a / b = " + (a / b));
 
-        System.out.println(" Hellooooooooooooooooooo");
-        System.out.println("MuhammadSolih");
+
+
+        System.out.println(" asdfghjk hcbhixhbfgbnjbfijbnj");
     }
 }
