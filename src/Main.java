@@ -1,83 +1,14 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        double n = Double.MAX_VALUE;
+        System.out.println("Double max -> " + n);
 
-        System.out.print(" Enter a: ");
-        int a = scanner.nextInt();
+        int m = Integer.MAX_VALUE;
+        System.out.println("Integer max -> " + m);
 
-        System.out.print(" Enter b: ");
-        int b = scanner.nextInt();
-
-        System.out.println(" S = a + b = " + (a + b));
-        System.out.println(" S = a - b = " + (a - b));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println(" asdfghjk hcbhixhbfgbnjbfijbnj");
+        long p = Long.MAX_VALUE;
+        System.out.println("Long max -> " + p);
 
     }
 }
