@@ -11,5 +11,6 @@ public class Main {
         System.out.println(" Bu yangi loyiha. ");
 
         System.out.println("O'zgartirdim :)");
+        System.out.println("O'zgartirdim :)");
     }
 }
